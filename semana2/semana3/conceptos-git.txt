@@ -1,0 +1,22 @@
+repositorio
+concepto: un repositorio es un espacio donde se almacenan
+y organizan los archivos y el código de un proyecto.
+Permite guardar cambios, trabajar en equipo y llevar un control 
+de las diferentes versiones del proyecto mediante herramientas 
+como Git. Además, facilita la colaboración y el seguimiento del 
+desarrollo del software.
+
+commit
+concepto: En Git, el comando commit se utiliza para guardar de 
+manera permanente los cambios realizados en un proyecto. Cada 
+commit crea un registro que permite identificar qué 
+modificaciones se hicieron, quién las realizó y en qué momento. 
+Esto ayuda a llevar un control organizado de las versiones del 
+proyecto.
+
+push
+concepto: En Git, el comando push se utiliza para enviar los 
+commits realizados en un repositorio local hacia un repositorio 
+remoto, como GitHub. Esto permite actualizar el proyecto en 
+línea y compartir los cambios con otros miembros del equipo de 
+trabajo.
